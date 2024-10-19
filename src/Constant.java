@@ -8,8 +8,5 @@ public class Constant {
         // O(1) +O(1)=O()-> O(1) // Constant Time Complexity
         // O(4 bytes) = O(1) // Constant space Complexity
 
-
-
-
     }
 }
